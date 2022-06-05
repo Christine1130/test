@@ -1,1 +1,1 @@
-con sole.log("Hello World");
+con sole.log("Hello GitHub");
